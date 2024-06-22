@@ -7,7 +7,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/matheusneres15/ebook/blob/main/Ebook%20(1).pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/matheusneres15/ebook/blob/main/README.md" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
